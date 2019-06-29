@@ -1,1 +1,1 @@
-genie --soloud-devel --platform=x32 vs2017
+genie --soloud-devel --with-native-only --platform=x64 vs2019
